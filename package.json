@@ -3,6 +3,10 @@
   "version": "0.0.0",
   "description": "Experiment different CI tools",
   "main": "index.js",
+  "engines": {
+    "node": ">=8.10",
+    "npm": ">=6.6"
+  },
   "scripts": {
     "test": "echo NO TEST"
   },
