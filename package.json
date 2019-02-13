@@ -1,0 +1,23 @@
+{
+  "name": "github-ci-playground",
+  "version": "0.0.0",
+  "description": "Experiment different CI tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo NO TEST"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickccm1122/github-ci-playground.git"
+  },
+  "keywords": [
+    "ci",
+    "github"
+  ],
+  "author": "Nick Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickccm1122/github-ci-playground/issues"
+  },
+  "homepage": "https://github.com/nickccm1122/github-ci-playground#readme"
+}
