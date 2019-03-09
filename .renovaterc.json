@@ -1,7 +1,7 @@
 {
   "extends": ["config:base"],
   "timezone": "Asia/Hong_Kong",
-  "schedule": ["after 10:00pm and before 6:00am"],
+  "schedule": ["every weekend"],
   "node": {
     "supportPolicy": ["lts_active"]
   },
